@@ -1,0 +1,22 @@
+[
+	{
+		"id":1,
+		"task":"cocinar",
+		"completed":false
+	},
+	{
+		"id":2,
+		"task":"lavar",
+		"completed":false
+	},
+	{
+		"id":3,
+		"task":"hacer  tareas facultad",
+		"completed":false
+	},
+	{
+		"id":4,
+		"task":"planchar",
+		"completed":true
+	}
+]
