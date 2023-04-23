@@ -7,7 +7,7 @@
 	{
 		"id":2,
 		"task":"lavar",
-		"completed":false
+		"completed":true
 	},
 	{
 		"id":3,
